@@ -1,4 +1,4 @@
-[![MasterHead](https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)](https://supreetsidhu.com)
+[![MasterHead](banner.png)](https://supreetsidhu.com)
 <h1 align="center">Hi 👋, I'm Supreet</h1>
 <h3 align="center">An early career passionate fullstack Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
